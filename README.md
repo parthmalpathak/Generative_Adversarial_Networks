@@ -10,6 +10,8 @@ This implementation demonstrates the use of GANs to generate new data. It also g
  
 * **Images generated through Human Faces Dataset**
 <img src="Sample Images/Human_Faces.png" width="600"/>
+
+**NOTE:** The generated images are for demonstrational purposes and hyperparameter tuning may lead to generation of better examples.
   
 ## Copyright
 Author [@Parth Malpathak](https://github.com/parthmalpathak)
